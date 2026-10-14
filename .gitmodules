@@ -1,18 +1,18 @@
 [submodule "482p1"]
 	path = 482p1
-	url = https://github.com/eecs482/jomaad.midterm1.git
+	url = https://github.com/jomaa-daniel/482p1.git
 [submodule "482p2"]
 	path = 482p2
-	url = https://github.com/eecs482/jomaad.midterm2.git
+	url = https://github.com/jomaa-daniel/482p2.git
 [submodule "482p3"]
 	path = 482p3
-	url = https://github.com/eecs482/jomaad.final1.git
+	url = https://github.com/jomaa-daniel/482p3.git
 [submodule "482p4"]
 	path = 482p4
-	url = https://github.com/eecs482/jomaad.final2.git
+	url = https://github.com/jomaa-daniel/482p4.git
 [submodule "p3-Euchre"]
 	path = p3-Euchre
-	url = https://gitlab.eecs.umich.edu/jomaad/p3-euchre.git
+	url = https://github.com/jomaa-daniel/p3-Euchre.git
 [submodule "p5-machineLearning"]
 	path = p5-machineLearning
-	url = https://gitlab.eecs.umich.edu/jomaad/p5-machine-learning.git
+	url = https://github.com/jomaa-daniel/p5-machineLearning.git
